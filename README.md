@@ -13,4 +13,5 @@ You can use a mutant to help with ensuring the test coverage!
 It is a good practice to validate your Unit Testing with a mutant before CI/CD, or we can make it part of the CI process (be careful, each team needs to do a time impact analysis about mutation testing in your project).
 
 Video: https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6727605047363964928/
+
 Additional Information: https://pitest.org/
