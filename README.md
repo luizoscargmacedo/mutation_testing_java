@@ -30,7 +30,6 @@ PIT Mutation Testing
 _____________________________________________
 
 ### Configuration Project ###
- Pitest
  Mutation Testing in Software Testing: Mutant Score & Analysis Example 
    - url: https://lnkd.in/dAbYmbc
 
