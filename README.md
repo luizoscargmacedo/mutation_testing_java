@@ -22,10 +22,10 @@ _____________________________________________
 ### Environment Configuration ###
 ### Installation ###
 IntelliJ IDEA
-url: https://www.jetbrains.com/idea/ 
+   - url: https://www.jetbrains.com/idea/ 
 
 PIT Mutation Testing
-url: https://pitest.org/
+   - url: https://pitest.org/
 
 _____________________________________________
 
@@ -33,20 +33,20 @@ _____________________________________________
   - Pitest
   
   - Mutation Testing in Software Testing: Mutant Score & Analysis Example 
-  https://lnkd.in/dAbYmbc
+   - url:https://lnkd.in/dAbYmbc
 
   - Mutation Testing 
-  https://lnkd.in/dwaW-KH
+   - url:https://lnkd.in/dwaW-KH
 
 _____________________________________________
 
 
 ### Execution Project ###
-  - Maven 
-  https://www.jetbrains.com/help/idea/work-with-tests-in-maven.html
+  *** Maven ***
+  - url:https://www.jetbrains.com/help/idea/work-with-tests-in-maven.html
   
   - JUnit
-  https://www.jetbrains.com/help/idea/run-debug-configuration-junit.html
+  - url:https://www.jetbrains.com/help/idea/run-debug-configuration-junit.html
   
 _____________________________________________
   
