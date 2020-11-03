@@ -30,22 +30,21 @@ PIT Mutation Testing
 _____________________________________________
 
 ### Configuration Project ###
-  - Pitest
-  
-  - Mutation Testing in Software Testing: Mutant Score & Analysis Example 
+ Pitest
+ Mutation Testing in Software Testing: Mutant Score & Analysis Example 
    - url:https://lnkd.in/dAbYmbc
 
-  - Mutation Testing 
+ Mutation Testing 
    - url:https://lnkd.in/dwaW-KH
 
 _____________________________________________
 
 
 ### Execution Project ###
-  *** Maven ***
+ Maven
   - url:https://www.jetbrains.com/help/idea/work-with-tests-in-maven.html
   
-  - JUnit
+ JUnit
   - url:https://www.jetbrains.com/help/idea/run-debug-configuration-junit.html
   
 _____________________________________________
