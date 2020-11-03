@@ -17,9 +17,6 @@ It is a good practice to validate your Unit Testing with a mutant before CI/CD, 
 
 Video: https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6727605047363964928/
 
-Additional Information: 
-https://lnkd.in/dAbYmbc
-https://lnkd.in/dwaW-KH
 
 ### Environment Configuration ###
 ### Installation ###
@@ -35,10 +32,18 @@ url: https://pitest.org/
   - Pitest
   
 Additional Information: 
-https://lnkd.in/dAbYmbc
-https://lnkd.in/dwaW-KH
+  Mutation Testing in Software Testing: Mutant Score & Analysis Example 
+  url: https://lnkd.in/dAbYmbc
+
+  Mutation Testing 
+  url: https://lnkd.in/dwaW-KH
+
 
 ### Execution Project ###
-  - Maven and JUnit
+  - Maven 
+  https://www.jetbrains.com/help/idea/work-with-tests-in-maven.html
+  
+  - JUnit
+  https://www.jetbrains.com/help/idea/run-debug-configuration-junit.html
   
 E-mail: luiz.gmacedo@gmail.com
