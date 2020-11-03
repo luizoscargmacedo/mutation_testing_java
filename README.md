@@ -1,4 +1,4 @@
-# Mutation Testing 
+### Mutation Testing ### 
 # Java - Maven - Pitest - JUnit
 
 **Version:** 1.0 <br>
@@ -17,6 +17,7 @@ It is a good practice to validate your Unit Testing with a mutant before CI/CD, 
 
 Video: https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6727605047363964928/
 
+_____________________________________________
 
 ### Environment Configuration ###
 ### Installation ###
@@ -27,11 +28,8 @@ PIT Mutation Testing
 url: https://pitest.org/
 
 ### Configuration Project ###
-  - Maven
-  - JUnit
   - Pitest
   
-Additional Information: 
   Mutation Testing in Software Testing: Mutant Score & Analysis Example 
   url: https://lnkd.in/dAbYmbc
 
@@ -45,5 +43,6 @@ Additional Information:
   
   - JUnit
   https://www.jetbrains.com/help/idea/run-debug-configuration-junit.html
+  
   
 E-mail: luiz.gmacedo@gmail.com
