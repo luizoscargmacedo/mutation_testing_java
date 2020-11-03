@@ -32,20 +32,20 @@ _____________________________________________
 ### Configuration Project ###
  Pitest
  Mutation Testing in Software Testing: Mutant Score & Analysis Example 
-   - url:https://lnkd.in/dAbYmbc
+   - url: https://lnkd.in/dAbYmbc
 
  Mutation Testing 
-   - url:https://lnkd.in/dwaW-KH
+   - url: https://lnkd.in/dwaW-KH
 
 _____________________________________________
 
 
 ### Execution Project ###
  Maven
-  - url:https://www.jetbrains.com/help/idea/work-with-tests-in-maven.html
+  - url: https://www.jetbrains.com/help/idea/work-with-tests-in-maven.html
   
  JUnit
-  - url:https://www.jetbrains.com/help/idea/run-debug-configuration-junit.html
+  - url: https://www.jetbrains.com/help/idea/run-debug-configuration-junit.html
   
 _____________________________________________
   
