@@ -1,8 +1,8 @@
 # Mutation Testing 
 # Java - Maven - Pitest - JUnit
 
-Version: 1.0
-Created: 2020-09-05
+**Version:** 1.0 <br>
+**Created:** 2020-09-04
 
 It's fast, scalable, and integrates with modern tests and build tooling.
 Faults (or mutations) are automatically seeded into your code, then your tests are run. If your tests fail then the mutation is killed, if your tests pass then the mutation lived.
@@ -29,6 +29,14 @@ url: https://www.jetbrains.com/idea/
 PIT Mutation Testing
 url: https://pitest.org/
 
+### Configuration Project ###
+  - Maven
+  - JUnit
+  - Pitest
+  
+Additional Information: 
+https://lnkd.in/dAbYmbc
+https://lnkd.in/dwaW-KH
 
 ### Execution Project ###
   - Maven and JUnit
