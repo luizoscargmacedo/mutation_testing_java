@@ -17,7 +17,9 @@ It is a good practice to validate your Unit Testing with a mutant before CI/CD, 
 
 Video: https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6727605047363964928/
 
-Additional Information: https://pitest.org/
+Additional Information: 
+https://lnkd.in/dAbYmbc
+https://lnkd.in/dwaW-KH
 
 ### Environment Configuration ###
 ### Installation ###
@@ -29,6 +31,6 @@ url: https://pitest.org/
 
 
 ### Execution Project ###
-  - Maven and/or JUnit
+  - Maven and JUnit
   
 E-mail: luiz.gmacedo@gmail.com
