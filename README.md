@@ -27,6 +27,8 @@ url: https://www.jetbrains.com/idea/
 PIT Mutation Testing
 url: https://pitest.org/
 
+_____________________________________________
+
 ### Configuration Project ###
   - Pitest
   
@@ -36,6 +38,8 @@ url: https://pitest.org/
   Mutation Testing 
   url: https://lnkd.in/dwaW-KH
 
+_____________________________________________
+
 
 ### Execution Project ###
   - Maven 
@@ -43,6 +47,8 @@ url: https://pitest.org/
   
   - JUnit
   https://www.jetbrains.com/help/idea/run-debug-configuration-junit.html
+  
+_____________________________________________
   
   
 E-mail: luiz.gmacedo@gmail.com
