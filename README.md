@@ -1,4 +1,4 @@
-### Mutation Testing ### 
+# Mutation Testing 
 # Java - Maven - Pitest - JUnit
 
 **Version:** 1.0 <br>
@@ -32,11 +32,11 @@ _____________________________________________
 ### Configuration Project ###
   - Pitest
   
-  Mutation Testing in Software Testing: Mutant Score & Analysis Example 
-  url: https://lnkd.in/dAbYmbc
+  - Mutation Testing in Software Testing: Mutant Score & Analysis Example 
+  https://lnkd.in/dAbYmbc
 
-  Mutation Testing 
-  url: https://lnkd.in/dwaW-KH
+  - Mutation Testing 
+  https://lnkd.in/dwaW-KH
 
 _____________________________________________
 
@@ -52,3 +52,5 @@ _____________________________________________
   
   
 E-mail: luiz.gmacedo@gmail.com
+
+
